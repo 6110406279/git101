@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 dawdaw bruh
+=======
+dawdaw
+
+idk
+>>>>>>> 5a9c240399e7050943ba19aac6a41996510c2386
