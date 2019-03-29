@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 no, just no
 
 
 definitely not
+=======
+no
+
+
+definitely no deqweqwe
+>>>>>>> feature2
